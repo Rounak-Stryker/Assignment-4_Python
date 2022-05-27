@@ -1,0 +1,76 @@
+Q1 Output
+------------------------------------------------------------------
+*** Remote Interpreter Reinitialized ***
+Enter Marks: -50
+Invalid Input of Marks
+>>> 
+*** Remote Interpreter Reinitialized ***
+Enter Marks: 120
+Invalid Input of Marks
+>>> 
+*** Remote Interpreter Reinitialized ***
+Enter Marks: 20
+Grade = F
+>>> 
+*** Remote Interpreter Reinitialized ***
+Enter Marks: 30
+Grade = E
+>>> 
+*** Remote Interpreter Reinitialized ***
+Enter Marks: 40
+Grade = E
+>>> 
+*** Remote Interpreter Reinitialized ***
+Enter Marks: 48
+Grade = D
+>>> 
+*** Remote Interpreter Reinitialized ***
+Enter Marks: 56
+Grade = C
+>>> 
+*** Remote Interpreter Reinitialized ***
+Enter Marks: 70
+Grade = B
+>>> 
+*** Remote Interpreter Reinitialized ***
+Enter Marks: 93
+Grade = A
+>>> 
+*** Remote Interpreter Reinitialized ***
+Enter Marks: 80
+Grade = A
+>>> 
+-----------------------------------------------------------------
+Q2 Output
+-----------------------------------------------------------------
+*** Remote Interpreter Reinitialized ***
+Enter Year = 2020
+Year is a leap year
+>>> 
+*** Remote Interpreter Reinitialized ***
+Enter Year = 2100
+Year is not a leap year
+>>> 
+*** Remote Interpreter Reinitialized ***
+Enter Year = 2000
+Year is a leap year.
+>>> 
+
+-----------------------------------------------------------------
+Q3 Output
+-----------------------------------------------------------------
+*** Remote Interpreter Reinitialized ***
+Question1:8x1=8
+ Correct
+Question2:1x2=2
+ Correct
+Question3:10x1=3
+ Incorrect, try again 
+Question4:8x8=36
+ Incorrect, try again 
+Question5:1x7=7
+ Correct
+-----------------------------------------------------------------
+Q4 Output
+-----------------------------------------------------------------
+Possible No of Candies:  177 
